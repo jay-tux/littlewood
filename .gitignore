@@ -1,0 +1,9 @@
+bruteforce-cuda/bin/*
+bruteforce-cuda/obj/*
+
+elegant-gl/bin/*
+elegand-gl/obj/*
+
+verslag.*
+!verslag.pdf
+!verslag.tex
